@@ -1,3 +1,3 @@
 # **Web Server Reverse Proxy**
-## **NGINX**
-## **Apache2**
+- **NGINX**
+- **Apache2**
